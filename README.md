@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Tcl: a potential division-by-zero error. The file 'bug.tcl' contains a procedure that does not correctly handle cases where division by zero might occur, leading to an error.  The solution, provided in 'bugSolution.tcl', demonstrates how to handle this error effectively.
